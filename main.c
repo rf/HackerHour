@@ -2,7 +2,10 @@
 
 int main(int argc, const char *argv[])
 {
-  printf("hi!");
+  while (1)
+  {
+  	printf("lol\n");
+  }
   return 0;
 }
 
